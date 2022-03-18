@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.214de5b2.css",
+    "main.js": "/static/js/main.e6f777e4.js",
+    "static/media/cloudaton.png": "/static/media/cloudaton.f8c85d6e10fdc98a264e.png",
+    "static/media/Gila-Bold.ttf": "/static/media/Gila-Bold.33a132ef68e8fc657e87.ttf",
+    "index.html": "/index.html",
+    "main.214de5b2.css.map": "/static/css/main.214de5b2.css.map",
+    "main.e6f777e4.js.map": "/static/js/main.e6f777e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.214de5b2.css",
+    "static/js/main.e6f777e4.js"
+  ]
+}
